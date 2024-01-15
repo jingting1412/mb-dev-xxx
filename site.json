@@ -1,0 +1,31 @@
+{
+  "baseUrl": "",
+  "titlePrefix": "mb-dev-xxx",
+  "titleSuffix": "",
+  "ignore": [
+    "_markbind/layouts/*",
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md",
+    "*.njk",
+    ".git/*",
+    ".gitignore",
+    "node_modules/*"
+  ],
+  "pagesExclude": ["node_modules/*"],
+  "pages": [
+    {
+      "src": "index.md"
+    },
+    {
+      "glob": ["**/index.md", "**/*.md"]
+    },
+    {
+      "title": "THIS IS THE HOME" 
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
