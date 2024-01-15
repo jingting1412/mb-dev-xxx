@@ -1,5 +1,5 @@
 {
-  "baseUrl": "/mb-dev/xxx",
+  "baseUrl": "/mb-dev-xxx",
   "titlePrefix": "mb-dev-xxx",
   "titleSuffix": "",
   "ignore": [
@@ -16,13 +16,11 @@
   "pagesExclude": ["node_modules/*"],
   "pages": [
     {
-      "src": "index.md"
+      "src": "index.md",
+      "title": "THIS IS THE HOME" 
     },
     {
       "glob": ["**/index.md", "**/*.md"]
-    },
-    {
-      "title": "THIS IS THE HOME" 
     }
   ],
   "deploy": {
