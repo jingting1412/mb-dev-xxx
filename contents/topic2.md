@@ -9,7 +9,8 @@
 ### bITbIT
 
 The best mascot ever in NUS just look at it its a lil bunny trying its best. I have a plushie of
-bITbIT
+<tooltip content="I love that its name is bitbit what a reference 🐰"><i>bITbIT</i></tooltip>
+
 
 ### SOCcat
 
