@@ -11,31 +11,46 @@
       "src": "contents/topic1.md",
       "title": "Topic 1",
       "headings": {
-        "topic-1": "Topic 1"
+        "the-cats-in-nus": "The cats in NUS",
+        "plum": "Plum",
+        "putu": "Putu",
+        "belle": "Belle",
+        "fred": "Fred"
       },
       "headingKeywords": {}
     },
     {
       "src": "contents/topic2.md",
-      "title": "Topic 2",
+      "title": "Mascots",
       "headings": {
-        "topic-2": "Topic 2"
+        "mascots": "Mascots",
+        "bitbit": "bITbIT",
+        "soccat": "SOCcat",
+        "linus": "LiNUS"
       },
       "headingKeywords": {}
     },
     {
       "src": "contents/topic3a.md",
-      "title": "Topic 3a",
+      "title": "The chickens",
       "headings": {
-        "topic-3a": "Topic 3a"
+        "the-chickens": "The chickens"
       },
       "headingKeywords": {}
     },
     {
       "src": "contents/topic3b.md",
-      "title": "Topic 3b",
+      "title": "The jungle that is RVRC",
       "headings": {
-        "topic-3b": "Topic 3b"
+        "the-jungle-that-is-rvrc": "The jungle that is RVRC"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic4.md",
+      "title": "Other stuff",
+      "headings": {
+        "various-other-ramblings": "Various other ramblings"
       },
       "headingKeywords": {}
     },
@@ -43,9 +58,7 @@
       "src": "index.md",
       "title": "THIS IS THE HOME",
       "headings": {
-        "what-just-happened": "What just happened?",
-        "navigating-this-site": "Navigating this site",
-        "guide-to-markbind": "Guide to MarkBind"
+        "i-love-cats": "I love cats 🐱"
       },
       "headingKeywords": {}
     }
