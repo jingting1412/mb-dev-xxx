@@ -1,7 +1,7 @@
 {
   "baseUrl": "/mb-dev-xxx",
   "titlePrefix": "mb-dev-xxx",
-  "titleSuffix": "",
+  "titleSuffix": "presentation",
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
